@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="82ab019e-37dd-46cf-83bb-1caadbb03cc8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemandsolutions/GradeSheet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemandsolutions/GradeSheet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problemandsolutions/RandomNumberGenerate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemandsolutions/RandomNumberGenerate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,13 +27,13 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.GradeSheet">
-    <configuration name="ArithmeticOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problemandsolutions.ArithmeticOperator" />
+  <component name="RunManager" selected="Application.Numbers">
+    <configuration name="ConnectToMongoDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="databases.ConnectToMongoDB" />
       <module name="MidTermWeekDaysDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="problemandsolutions.*" />
+          <option name="PATTERN" value="databases.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -40,12 +41,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problemandsolutions.ArraySort" />
+    <configuration name="ConnectToSqlDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="databases.ConnectToSqlDB" />
       <module name="MidTermWeekDaysDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="problemandsolutions.*" />
+          <option name="PATTERN" value="databases.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,11 +67,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.Numbers" />
+      <module name="MidTermWeekDaysDecember2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomNumberGenerate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problemandsolutions.RandomNumberGenerate" />
+      <module name="MidTermWeekDaysDecember2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problemandsolutions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Numbers" />
+        <item itemvalue="Application.ConnectToSqlDB" />
+        <item itemvalue="Application.ConnectToMongoDB" />
+        <item itemvalue="Application.RandomNumberGenerate" />
         <item itemvalue="Application.GradeSheet" />
-        <item itemvalue="Application.ArraySort" />
-        <item itemvalue="Application.ArithmeticOperator" />
       </list>
     </recent_temporary>
   </component>
@@ -100,22 +129,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1579147825391">
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1579480060400">
       <screen x="0" y="0" width="1280" height="732" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.732@0.0.1280.732" timestamp="1579147825391" />
-    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1579147825388">
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.732@0.0.1280.732" timestamp="1579480060400" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1579480060397">
       <screen x="0" y="0" width="1280" height="732" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.732@0.0.1280.732" timestamp="1579147825388" />
-    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1579147825387">
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.732@0.0.1280.732" timestamp="1579480060397" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1579480060396">
       <screen x="0" y="0" width="1280" height="732" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.732@0.0.1280.732" timestamp="1579147825387" />
-    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1579147825390">
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.732@0.0.1280.732" timestamp="1579480060396" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1579480060398">
       <screen x="0" y="0" width="1280" height="732" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.732@0.0.1280.732" timestamp="1579147825390" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.732@0.0.1280.732" timestamp="1579480060398" />
     <state width="1238" height="263" key="GridCell.Tab.1.bottom" timestamp="1579145348294">
       <screen x="0" y="0" width="1280" height="732" />
     </state>
@@ -132,6 +161,10 @@
       <screen x="0" y="0" width="1280" height="732" />
     </state>
     <state width="1238" height="263" key="GridCell.Tab.1.right/0.0.1280.732@0.0.1280.732" timestamp="1579145348292" />
+    <state x="307" y="118" key="RollbackChangesDialog" timestamp="1579150567036">
+      <screen x="0" y="0" width="1280" height="732" />
+    </state>
+    <state x="307" y="118" key="RollbackChangesDialog/0.0.1280.732@0.0.1280.732" timestamp="1579150567036" />
     <state x="128" y="23" key="SettingsEditor" timestamp="1579138240375">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
