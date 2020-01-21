@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="82ab019e-37dd-46cf-83bb-1caadbb03cc8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemandsolutions/RandomNumberGenerate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemandsolutions/RandomNumberGenerate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +23,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.mongoOptions" />
   </component>
-  <component name="RunManager" selected="Application.Numbers">
+  <component name="RunManager" selected="Application.ConnectToMongoDB">
     <configuration name="ConnectToMongoDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="databases.ConnectToMongoDB" />
       <module name="MidTermWeekDaysDecember2019" />
@@ -95,9 +94,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConnectToMongoDB" />
         <item itemvalue="Application.Numbers" />
         <item itemvalue="Application.ConnectToSqlDB" />
-        <item itemvalue="Application.ConnectToMongoDB" />
         <item itemvalue="Application.RandomNumberGenerate" />
         <item itemvalue="Application.GradeSheet" />
       </list>
@@ -129,49 +128,51 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1579480060400">
+    <state width="1238" height="263" key="GridCell.Tab.0.bottom" timestamp="1579567789337">
       <screen x="0" y="0" width="1280" height="732" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.732@0.0.1280.732" timestamp="1579480060400" />
-    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1579480060397">
+    <state width="1238" height="263" key="GridCell.Tab.0.bottom/0.0.1280.732@0.0.1280.732" timestamp="1579567789337" />
+    <state width="1238" height="263" key="GridCell.Tab.0.center" timestamp="1579567789336">
       <screen x="0" y="0" width="1280" height="732" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.732@0.0.1280.732" timestamp="1579480060397" />
-    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1579480060396">
+    <state width="1238" height="263" key="GridCell.Tab.0.center/0.0.1280.732@0.0.1280.732" timestamp="1579567789336" />
+    <state width="1238" height="263" key="GridCell.Tab.0.left" timestamp="1579567789335">
       <screen x="0" y="0" width="1280" height="732" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.732@0.0.1280.732" timestamp="1579480060396" />
-    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1579480060398">
+    <state width="1238" height="263" key="GridCell.Tab.0.left/0.0.1280.732@0.0.1280.732" timestamp="1579567789335" />
+    <state width="1238" height="263" key="GridCell.Tab.0.right" timestamp="1579567789337">
       <screen x="0" y="0" width="1280" height="732" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.732@0.0.1280.732" timestamp="1579480060398" />
-    <state width="1238" height="263" key="GridCell.Tab.1.bottom" timestamp="1579145348294">
+    <state width="1238" height="263" key="GridCell.Tab.0.right/0.0.1280.732@0.0.1280.732" timestamp="1579567789337" />
+    <state width="1238" height="263" key="GridCell.Tab.1.bottom" timestamp="1579567789341">
       <screen x="0" y="0" width="1280" height="732" />
     </state>
-    <state width="1238" height="263" key="GridCell.Tab.1.bottom/0.0.1280.732@0.0.1280.732" timestamp="1579145348294" />
-    <state width="1238" height="263" key="GridCell.Tab.1.center" timestamp="1579145348291">
+    <state width="1238" height="263" key="GridCell.Tab.1.bottom/0.0.1280.732@0.0.1280.732" timestamp="1579567789341" />
+    <state width="1238" height="263" key="GridCell.Tab.1.center" timestamp="1579567789339">
       <screen x="0" y="0" width="1280" height="732" />
     </state>
-    <state width="1238" height="263" key="GridCell.Tab.1.center/0.0.1280.732@0.0.1280.732" timestamp="1579145348291" />
-    <state width="1238" height="263" key="GridCell.Tab.1.left" timestamp="1579145348289">
+    <state width="1238" height="263" key="GridCell.Tab.1.center/0.0.1280.732@0.0.1280.732" timestamp="1579567789339" />
+    <state width="1238" height="263" key="GridCell.Tab.1.left" timestamp="1579567789338">
       <screen x="0" y="0" width="1280" height="732" />
     </state>
-    <state width="1238" height="263" key="GridCell.Tab.1.left/0.0.1280.732@0.0.1280.732" timestamp="1579145348289" />
-    <state width="1238" height="263" key="GridCell.Tab.1.right" timestamp="1579145348292">
+    <state width="1238" height="263" key="GridCell.Tab.1.left/0.0.1280.732@0.0.1280.732" timestamp="1579567789338" />
+    <state width="1238" height="263" key="GridCell.Tab.1.right" timestamp="1579567789340">
       <screen x="0" y="0" width="1280" height="732" />
     </state>
-    <state width="1238" height="263" key="GridCell.Tab.1.right/0.0.1280.732@0.0.1280.732" timestamp="1579145348292" />
+    <state width="1238" height="263" key="GridCell.Tab.1.right/0.0.1280.732@0.0.1280.732" timestamp="1579567789340" />
     <state x="307" y="118" key="RollbackChangesDialog" timestamp="1579150567036">
       <screen x="0" y="0" width="1280" height="732" />
     </state>
     <state x="307" y="118" key="RollbackChangesDialog/0.0.1280.732@0.0.1280.732" timestamp="1579150567036" />
-    <state x="128" y="23" key="SettingsEditor" timestamp="1579138240375">
-      <screen x="0" y="23" width="1280" height="709" />
+    <state x="128" y="10" key="SettingsEditor" timestamp="1579647118517">
+      <screen x="0" y="0" width="1280" height="732" />
     </state>
+    <state x="128" y="10" key="SettingsEditor/0.0.1280.732@0.0.1280.732" timestamp="1579647118517" />
     <state x="128" y="23" key="SettingsEditor/0.23.1280.709@0.23.1280.709" timestamp="1579138240375" />
-    <state x="319" y="210" key="com.intellij.ide.util.TipDialog" timestamp="1579136312013">
-      <screen x="0" y="23" width="1280" height="712" />
+    <state x="319" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1579646983228">
+      <screen x="0" y="0" width="1280" height="732" />
     </state>
+    <state x="319" y="192" key="com.intellij.ide.util.TipDialog/0.0.1280.732@0.0.1280.732" timestamp="1579646983228" />
     <state x="319" y="210" key="com.intellij.ide.util.TipDialog/0.23.1280.712@0.23.1280.712" timestamp="1579136312013" />
   </component>
 </project>
